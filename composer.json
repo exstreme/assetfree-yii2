@@ -1,6 +1,6 @@
 {
-  "name": "cebe/assetfree-yii2",
-  "description": "A meta package that allows you to install yii2 without composer-asset-plugin.",
+  "name": "exstreme/assetfree-yii2",
+  "description": "A meta package that allows you to install yii2 without composer-asset-plugin. Fork",
   "type": "library",
   "require": {
     "php": ">=7.4",
